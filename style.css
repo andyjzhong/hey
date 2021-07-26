@@ -1,0 +1,15 @@
+body {
+  background-color: #BCFFB9;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 40%;
+  min-width: 100vw;
+  font-size: 100px;
+}
+
+#submit-btn {
+  margin-top: 20px;
+  font-size: 40px;
+}
