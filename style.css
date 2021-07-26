@@ -1,15 +1,17 @@
 body {
   background-color: #BCFFB9;
   text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
-  margin-top: 40%;
-  min-width: 100vw;
-  font-size: 100px;
+  font-size: 160px;
 }
 
 #submit-btn {
-  margin-top: 20px;
+  margin-top: 5rem;
   font-size: 40px;
 }
